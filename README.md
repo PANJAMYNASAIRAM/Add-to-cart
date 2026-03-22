@@ -30,7 +30,8 @@ JavaScript (ES6) – DOM manipulation & event handling
 
 https://PANJAMYNASAIRAM.github.io/Add-to-cart  
 
-##How It Works
+##How It Works 
+
 User enters text in the input field
 On button click, the sai() function is triggered
 A new <li> element is created
